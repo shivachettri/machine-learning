@@ -10,7 +10,7 @@
 <p>We will write python codes in <strong>jupyter notebook</strong> that makes it easy to visualize and explain. Download and Install: <a href="https://anaconda.org/anaconda/python" target="_blank">Anaconda</a>.</p> 
 <p>I will try and explain things as we implement it.</p>
 
-</br/>
+<br/>
 
 <h3>INDEX</h3>
 <ul>
