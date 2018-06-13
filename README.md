@@ -22,8 +22,8 @@
 	<li>
 		<strong>Logistic Regression</strong>
 		(<a href="https://github.com/shivachettri/machine-learning/blob/master/Logistic%20Regression.ipynb">code</a>)
-		(<a href="https://github.com/shivachettri/machine-learning/blob/master/logistic-regression-data.csv">dataset</a>)
-		
+		(<a href="https://github.com/shivachettri/machine-learning/blob/master/logistic-regression-data.csv">dataset</a>)	
+		<br/>		
 		<strong>Logistic Regression (using Library)</strong>
 		(<a href="https://github.com/shivachettri/machine-learning/blob/master/Logistic%20Regression%20(using%20library).ipynb">code</a>)
 		(<a href="https://github.com/shivachettri/machine-learning/blob/master/logistic-regression-data.csv">dataset</a>)
