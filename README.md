@@ -28,6 +28,10 @@
 		(<a href="https://github.com/shivachettri/machine-learning/blob/master/Logistic%20Regression%20(using%20library).ipynb">code</a>)
 		(<a href="https://github.com/shivachettri/machine-learning/blob/master/logistic-regression-data.csv">dataset</a>)
 	</li>
+	<li>
+		<strong>Neural Network</strong>
+		(<a href="https://github.com/shivachettri/machine-learning/blob/master/Neural%20Networks.ipynb">code</a>)
+	</li>
 </ul>
 
 <br/>
