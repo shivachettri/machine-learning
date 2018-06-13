@@ -32,6 +32,13 @@
 		<strong>Neural Network</strong>
 		(<a href="https://github.com/shivachettri/machine-learning/blob/master/Neural%20Networks.ipynb">code</a>)
 	</li>
+	<li>
+		<strong>Unsupervised Learning (K-Means)</strong>
+		(<a href="https://github.com/shivachettri/machine-learning/blob/master/Unsupervised%20Learning%20(K-Means).ipynb">code</a>)
+		<br/>
+		<strong>Unsupervised Learning (DBSCAN)</strong>
+		(<a href="https://github.com/shivachettri/machine-learning/blob/master/Unsupervised%20Learning%20(DBSCAN).ipynb">code</a>)
+	</li>
 </ul>
 
 <br/>
