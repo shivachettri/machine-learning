@@ -31,6 +31,12 @@
 	<li>
 		<strong>Neural Network</strong>
 		(<a href="https://github.com/shivachettri/machine-learning/blob/master/Neural%20Networks.ipynb">code</a>)
+		<br/>
+		<strong>Deep Neural Network [Binary Classification] (Keras)</strong>
+		(<a href="https://github.com/shivachettri/machine-learning/blob/master/Deep%20Neural%20Network%20%5BBinary%20Classification%5D%20(Keras).ipynb">code</a>)
+		<br/>
+		<strong>Deep Neural Network [Multi-class Classification] (Keras)</strong>
+		(<a href="https://github.com/shivachettri/machine-learning/blob/master/Deep%20Neural%20Network%20%5BMulti-Class%20Classification%5D%20(Keras).ipynb">code</a>)
 	</li>
 	<li>
 		<strong>Unsupervised Learning (K-Means)</strong>
