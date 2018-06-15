@@ -13,6 +13,7 @@
 <br/>
 
 <h3>INDEX</h3>
+<p><strong>MODEL</strong></p>
 <ul>
 	<li>
 		<strong>Linear Regression</strong>
@@ -38,6 +39,21 @@
 		<strong>Deep Neural Network [Multi-class Classification] (Keras)</strong>
 		(<a href="https://github.com/shivachettri/machine-learning/blob/master/Deep%20Neural%20Network%20%5BMulti-Class%20Classification%5D%20(Keras).ipynb">code</a>)
 	</li>
+	
+</ul>
+
+<br/>
+
+<p><strong>ALGORITHM</strong></p>
+<ul>
+	<li>
+		<strong>Support Vector Machine (Classification and Regression)</strong>
+		(<a href="https://github.com/shivachettri/machine-learning/blob/master/Support%20Vector%20Machine%20(Classification%20and%20Regression).ipynb">code</a>)
+	</li>
+	<li>
+		<strong>Principal Component Analysis</strong>
+		(<a href="https://github.com/shivachettri/machine-learning/blob/master/Principle%20Component%20Analysis.ipynb">code</a>)
+	</li>
 	<li>
 		<strong>Unsupervised Learning (K-Means)</strong>
 		(<a href="https://github.com/shivachettri/machine-learning/blob/master/Unsupervised%20Learning%20(K-Means).ipynb">code</a>)
@@ -46,6 +62,7 @@
 		(<a href="https://github.com/shivachettri/machine-learning/blob/master/Unsupervised%20Learning%20(DBSCAN).ipynb">code</a>)
 	</li>
 </ul>
+
 
 <br/>
 
