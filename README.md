@@ -15,46 +15,46 @@
 <h1>INDEX</h1>
 <ul style="list-style-type: upper-roman;">
 	<li>
-		<p>Linear Regression</p>
+		Linear Regression
 		(<a href="https://github.com/shivachettri/machine-learning/blob/master/1.%20Linear%20Regression.ipynb">code</a>)
 		(<a href="https://github.com/shivachettri/machine-learning/blob/master/linear-regression-data.csv">dataset</a>)
 	</li>
 	<li>
-		<p>Logistic Regression</p>
+		Logistic Regression
 		(<a href="https://github.com/shivachettri/machine-learning/blob/master/Logistic%20Regression.ipynb">code</a>)
 		(<a href="https://github.com/shivachettri/machine-learning/blob/master/logistic-regression-data.csv">dataset</a>)	
 		<br/>		
-		<p>Logistic Regression (using Library)</p>
+		Logistic Regression (using Library)
 		(<a href="https://github.com/shivachettri/machine-learning/blob/master/Logistic%20Regression%20(using%20library).ipynb">code</a>)
 		(<a href="https://github.com/shivachettri/machine-learning/blob/master/logistic-regression-data.csv">dataset</a>)
 	</li>
 	<li>
-		<p>Neural Network</p>
+		Neural Network
 		(<a href="https://github.com/shivachettri/machine-learning/blob/master/Neural%20Networks.ipynb">code</a>)
 		<br/>
-		<p>Deep Neural Network [Binary Classification] (Keras)</p>
+		Deep Neural Network [Binary Classification] (Keras)
 		(<a href="https://github.com/shivachettri/machine-learning/blob/master/Deep%20Neural%20Network%20%5BBinary%20Classification%5D%20(Keras).ipynb">code</a>)
 		<br/>
-		<p>Deep Neural Network [Multi-class Classification] (Keras)</p>
+		Deep Neural Network [Multi-class Classification] (Keras)
 		(<a href="https://github.com/shivachettri/machine-learning/blob/master/Deep%20Neural%20Network%20%5BMulti-Class%20Classification%5D%20(Keras).ipynb">code</a>)
 	</li>
 	<li>
-		<p>Unsupervised Learning (K-Means Clustering)</p>
+		Unsupervised Learning (K-Means Clustering)
 		(<a href="https://github.com/shivachettri/machine-learning/blob/master/Unsupervised%20Learning%20(K-Means).ipynb">code</a>)
 		<br/>
-		<p>Unsupervised Learning (DBSCAN Clustering)</p>
+		Unsupervised Learning (DBSCAN Clustering)
 		(<a href="https://github.com/shivachettri/machine-learning/blob/master/Unsupervised%20Learning%20(DBSCAN).ipynb">code</a>)
 	</li>
 	<li>
-		<p>Support Vector Machine (Classification and Regression)</p>
+		Support Vector Machine (Classification and Regression)
 		(<a href="https://github.com/shivachettri/machine-learning/blob/master/Support%20Vector%20Machine%20(Classification%20and%20Regression).ipynb">code</a>)
 	</li>
 	<li>
-		<p>Principal Component Analysis</p>
+		Principal Component Analysis
 		(<a href="https://github.com/shivachettri/machine-learning/blob/master/Principle%20Component%20Analysis.ipynb">code</a>)
 	</li>
 	<li>
-		<p>Anomaly Detection</p>
+		Anomaly Detection
 		(<a href="">code</a>)
 	</li>
 </ul>
