@@ -1,4 +1,4 @@
-<p><strong>Disclaimer:</strong> Basic Python and Mathematics is a pre-requisite.</p>
+<p><strong>Disclaimer:</strong>> Basic Python and Mathematics is a pre-requisite.</p>
 
 <br/>
 
@@ -7,62 +7,57 @@
 
 <br/>
 
-<p>We will write python codes in <strong>jupyter notebook</strong> that makes it easy to visualize and explain. Download and Install: <a href="https://anaconda.org/anaconda/python" target="_blank">Anaconda</a>.</p> 
+<p>We will write python codes in <strong>jupyter notebook</strong> that makes it easy to visualize and explain. Download and Install: <a href="https://anaconda.org/anaconda/python" target="_blank">Anaconda</a>.</p>
 <p>I will try and explain things as we implement it.</p>
 
 <br/>
 
-<h3>INDEX</h3>
-<p><strong>MODEL</strong></p>
-<ul>
+<h1>INDEX</h1>
+<ul style="list-style-type: upper-roman;">
 	<li>
-		<strong>Linear Regression</strong>
+		<p>Linear Regression</p>
 		(<a href="https://github.com/shivachettri/machine-learning/blob/master/1.%20Linear%20Regression.ipynb">code</a>)
 		(<a href="https://github.com/shivachettri/machine-learning/blob/master/linear-regression-data.csv">dataset</a>)
 	</li>
 	<li>
-		<strong>Logistic Regression</strong>
+		<p>Logistic Regression</p>
 		(<a href="https://github.com/shivachettri/machine-learning/blob/master/Logistic%20Regression.ipynb">code</a>)
 		(<a href="https://github.com/shivachettri/machine-learning/blob/master/logistic-regression-data.csv">dataset</a>)	
 		<br/>		
-		<strong>Logistic Regression (using Library)</strong>
+		<p>Logistic Regression (using Library)</p>
 		(<a href="https://github.com/shivachettri/machine-learning/blob/master/Logistic%20Regression%20(using%20library).ipynb">code</a>)
 		(<a href="https://github.com/shivachettri/machine-learning/blob/master/logistic-regression-data.csv">dataset</a>)
 	</li>
 	<li>
-		<strong>Neural Network</strong>
+		<p>Neural Network</p>
 		(<a href="https://github.com/shivachettri/machine-learning/blob/master/Neural%20Networks.ipynb">code</a>)
 		<br/>
-		<strong>Deep Neural Network [Binary Classification] (Keras)</strong>
+		<p>Deep Neural Network [Binary Classification] (Keras)</p>
 		(<a href="https://github.com/shivachettri/machine-learning/blob/master/Deep%20Neural%20Network%20%5BBinary%20Classification%5D%20(Keras).ipynb">code</a>)
 		<br/>
-		<strong>Deep Neural Network [Multi-class Classification] (Keras)</strong>
+		<p>Deep Neural Network [Multi-class Classification] (Keras)</p>
 		(<a href="https://github.com/shivachettri/machine-learning/blob/master/Deep%20Neural%20Network%20%5BMulti-Class%20Classification%5D%20(Keras).ipynb">code</a>)
 	</li>
-	
-</ul>
-
-<br/>
-
-<p><strong>ALGORITHM</strong></p>
-<ul>
 	<li>
-		<strong>Support Vector Machine (Classification and Regression)</strong>
+		<p>Unsupervised Learning (K-Means Clustering)</p>
+		(<a href="https://github.com/shivachettri/machine-learning/blob/master/Unsupervised%20Learning%20(K-Means).ipynb">code</a>)
+		<br/>
+		<p>Unsupervised Learning (DBSCAN Clustering)</p>
+		(<a href="https://github.com/shivachettri/machine-learning/blob/master/Unsupervised%20Learning%20(DBSCAN).ipynb">code</a>)
+	</li>
+	<li>
+		<p>Support Vector Machine (Classification and Regression)</p>
 		(<a href="https://github.com/shivachettri/machine-learning/blob/master/Support%20Vector%20Machine%20(Classification%20and%20Regression).ipynb">code</a>)
 	</li>
 	<li>
-		<strong>Principal Component Analysis</strong>
+		<p>Principal Component Analysis</p>
 		(<a href="https://github.com/shivachettri/machine-learning/blob/master/Principle%20Component%20Analysis.ipynb">code</a>)
 	</li>
 	<li>
-		<strong>Unsupervised Learning (K-Means)</strong>
-		(<a href="https://github.com/shivachettri/machine-learning/blob/master/Unsupervised%20Learning%20(K-Means).ipynb">code</a>)
-		<br/>
-		<strong>Unsupervised Learning (DBSCAN)</strong>
-		(<a href="https://github.com/shivachettri/machine-learning/blob/master/Unsupervised%20Learning%20(DBSCAN).ipynb">code</a>)
+		<p>Anomaly Detection</p>
+		(<a href="">code</a>)
 	</li>
 </ul>
-
 
 <br/>
 
