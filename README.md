@@ -1,4 +1,4 @@
-<p><strong>Disclaimer:</strong>> Basic Python and Mathematics is a pre-requisite.</p>
+<p><strong>Disclaimer:</strong> Basic Python and Mathematics is a pre-requisite.</p>
 
 <br/>
 
@@ -19,6 +19,7 @@
 		(<a href="https://github.com/shivachettri/machine-learning/blob/master/1.%20Linear%20Regression.ipynb">code</a>)
 		(<a href="https://github.com/shivachettri/machine-learning/blob/master/linear-regression-data.csv">dataset</a>)
 	</li>
+	<br/>
 	<li>
 		Logistic Regression
 		(<a href="https://github.com/shivachettri/machine-learning/blob/master/Logistic%20Regression.ipynb">code</a>)
@@ -28,9 +29,13 @@
 		(<a href="https://github.com/shivachettri/machine-learning/blob/master/Logistic%20Regression%20(using%20library).ipynb">code</a>)
 		(<a href="https://github.com/shivachettri/machine-learning/blob/master/logistic-regression-data.csv">dataset</a>)
 	</li>
+	<br/>
 	<li>
 		Neural Network
 		(<a href="https://github.com/shivachettri/machine-learning/blob/master/Neural%20Networks.ipynb">code</a>)
+		<br/>
+		Neural Network (TensorFlow)
+		(<a href="https://github.com/shivachettri/machine-learning/blob/master/Neural%20Network%20(Tensor%20Flow).ipynb">code</a>)
 		<br/>
 		Deep Neural Network [Binary Classification] (Keras)
 		(<a href="https://github.com/shivachettri/machine-learning/blob/master/Deep%20Neural%20Network%20%5BBinary%20Classification%5D%20(Keras).ipynb">code</a>)
@@ -38,6 +43,7 @@
 		Deep Neural Network [Multi-class Classification] (Keras)
 		(<a href="https://github.com/shivachettri/machine-learning/blob/master/Deep%20Neural%20Network%20%5BMulti-Class%20Classification%5D%20(Keras).ipynb">code</a>)
 	</li>
+	<br/>
 	<li>
 		Unsupervised Learning (K-Means Clustering)
 		(<a href="https://github.com/shivachettri/machine-learning/blob/master/Unsupervised%20Learning%20(K-Means).ipynb">code</a>)
@@ -45,14 +51,17 @@
 		Unsupervised Learning (DBSCAN Clustering)
 		(<a href="https://github.com/shivachettri/machine-learning/blob/master/Unsupervised%20Learning%20(DBSCAN).ipynb">code</a>)
 	</li>
+	<br/>
 	<li>
 		Support Vector Machine (Classification and Regression)
 		(<a href="https://github.com/shivachettri/machine-learning/blob/master/Support%20Vector%20Machine%20(Classification%20and%20Regression).ipynb">code</a>)
 	</li>
+	<br/>
 	<li>
 		Principal Component Analysis
 		(<a href="https://github.com/shivachettri/machine-learning/blob/master/Principle%20Component%20Analysis.ipynb">code</a>)
 	</li>
+	<br/>
 	<li>
 		Anomaly Detection
 		(<a href="">code</a>)
