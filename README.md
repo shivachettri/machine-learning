@@ -42,6 +42,9 @@
 		<br/>
 		Deep Neural Network [Multi-class Classification] (Keras)
 		(<a href="https://github.com/shivachettri/machine-learning/blob/master/Deep%20Neural%20Network%20%5BMulti-Class%20Classification%5D%20(Keras).ipynb">code</a>)
+		<br/>
+		Convolution Neural Network (Keras)
+		(<a href="https://github.com/shivachettri/machine-learning/edit/master/Convolution%20Neural%20Network%20(Keras).ipynb">code</a>)
 	</li>
 	<br/>
 	<li>
